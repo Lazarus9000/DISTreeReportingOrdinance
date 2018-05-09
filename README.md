@@ -1,6 +1,8 @@
 # DISTreeReportingOrdinance
 DISTRO system - for monitoring the status and care of the plants in the DIS Aalborg Office
 
+Dashboard
+https://io.adafruit.com/DisAalborg/dashboards/dis-kontor
 
 Moisture sensor inspiration
 https://hackaday.io/project/12398/instructions
